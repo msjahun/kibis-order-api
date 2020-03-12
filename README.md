@@ -40,4 +40,7 @@ With the KibrisOrder API, you can perform any of the four CRUD actions against a
 
 The API plugin currently supports OAuth 2.0 Authorization Code grant type flow. So in order to access the resource endpoints you need to provide a valid AccessToken. To understand how the authorization code grant flow works . Ensure you get valid AccessToken from an Administrator in Kibrisorder.
 
-In Order to get authorized while requesting for resources you should include an the following in the request header: <strong>Authorization: Bearer {Access Token from administrator}</strong>
+In Order to get authorized while requesting for resources you should include an the following in the request header: 
+<br>
+<br>
+<strong>Authorization: Bearer {Access Token from administrator}</strong>
